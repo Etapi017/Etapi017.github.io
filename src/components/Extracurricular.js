@@ -4,7 +4,13 @@ const Extracurricular = () => {
   return (
     <section id="extracurricular">
       <h2>Extracurricular Activities</h2>
-      <p>Details about your extracurricular activities and interests.</p>
+      <ul>
+        <li>Olympic Weightlifting</li>
+        <li>Marathons</li>
+        <li>CrossFit</li>
+        <li>Playing Guitar</li>
+      </ul>
+
     </section>
   );
 }
