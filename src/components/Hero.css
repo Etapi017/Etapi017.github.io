@@ -1,0 +1,22 @@
+.hero {
+    text-align: center;
+    padding: 100px 0;
+    background: #282c34;
+    color: white;
+  }
+  
+  .hero h1 {
+    font-size: 3rem;
+    margin: 0;
+    transition: transform 0.2s;
+  }
+  
+  .hero h1:hover {
+    transform: scale(1.1);
+  }
+  
+  .hero p {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+  }
+  
